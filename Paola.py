@@ -47,4 +47,3 @@ class Paola:
 
 if __name__ == '__main__':
     u1 = Paola('paola', 'garcia', 'pmgm1996@gmail.com', '1234')
-    print(u1)
