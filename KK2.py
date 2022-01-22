@@ -47,4 +47,4 @@ class KK2:
 
 if __name__ == '__main__':
     u1 = KK2('saad', 'hasan', 'kodekaizenacademy2@gmail.com', '1234')
-    print(u1)
+
