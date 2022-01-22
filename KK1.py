@@ -1,6 +1,6 @@
 
 
-class Testing1:
+class KK1:
 
     def __init__(self, first_name: str, last_name: str, username: str, password: str):
         self._first_name = first_name
@@ -46,5 +46,5 @@ class Testing1:
 
 
 if __name__ == '__main__':
-    u1 = Testing1('Testing1', 'Testing1', 'kodekaizenacademy@gmail.com', '1234')
+    u1 = KK1('KK1', 'KK1', 'kodekaizenacadem1y@gmail.com', '1234')
     print(u1)
